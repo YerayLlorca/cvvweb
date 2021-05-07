@@ -1,5 +1,5 @@
-function language() {
-    var idioma = document.getElementById('language').value
+function Idioma() {
+    var idioma = document.getElementById('Idioma').value
     if (idioma == 'ES') {
         window.location.href = '../index.html'
     } else {
