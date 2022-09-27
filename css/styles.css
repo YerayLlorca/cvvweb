@@ -2,6 +2,7 @@
                                     box-sizing: border-box;
                                     /* font */
                                     font-family: "Averta CY", sans-serif;
+                                    
                                 }
                                 
                                 body {
@@ -17,13 +18,27 @@
                                     clear: both;
                                 }
                                 
+                                .centro {
+                                    text-align: center;
+                                }
+
                                 .relleno-lateral {
                                     padding-right: 8vw;
                                     padding-left: 8vw;
                                     padding-top: 8vw;
                                     padding-bottom: 8vw;
+                                    
+
                                 }
                                 
+                                /* .relleno-lateral2 {
+                                    padding-right: 8vw;
+                                    padding-left: 8vw;
+                                    padding-top: 0vw;
+                                    padding-bottom: 8vw;
+                                    
+                                } */
+
                                 #header {
                                     text-align: center;
                                     font-size: 5vw;
@@ -129,11 +144,27 @@
                                     color: white;
                                 }
                                 
+                                #section-5 h1 {
+                                    font-size: 3vw;
+                                    color: #00F2FF;
+                                }
+
+                                #section-5 h2 {
+                                    font-size: 2vw;
+                                    color: #00F2FF;
+                                }
+
+                                #section-5 h3 {
+                                    font-size: 2vw;
+                                    color: white;
+                                }
+
                                 .gallery img {
                                     width: 75%;
                                     border-radius: 10px;
                                     padding-top: 2.8vw;
                                 }
+                                
                                 /* Change the link color to #111 (black) on hover */
                                 
                                 li a:hover {
